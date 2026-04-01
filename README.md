@@ -1,8 +1,9 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a633e17a-3ca5-4383-8fa9-4d28f10df92b" width="350px" alt="banner workspace futurista" />
+</p>
+
 <h1 align="center">💫 Olá, me chamo Jorge Oliveira</h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a633e17a-3ca5-4383-8fa9-4d28f10df92b" width="500px" alt="banner workspace futurista" />
-</p>
 
 <p align="center">
 Desenvolvedor <strong>Front-End</strong> com experiência em <strong>React</strong>, <strong>Next.js</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Tailwind CSS</strong> e <strong>Bootstrap</strong>, especializado na criação de interfaces modernas, responsivas e centradas no usuário. Sou formado em <strong>Engenharia de Produção</strong>, <strong>Análise e Desenvolvimento de Sistemas</strong> e <strong>MBA em Gerenciamento de Projetos</strong>. Atuei no desenvolvimento de <strong>duas plataformas web voltadas ao turismo comunitário</strong>, integrando <strong>APIs RESTful com Django</strong>, autenticação <strong>JWT</strong>, controle de acesso por papéis, criação de componentes reutilizáveis, gerenciamento de estado com <strong>React Hooks</strong> e testes automatizados com <strong>Cypress</strong>, utilizando metodologias ágeis (<strong>Scrum</strong> e <strong>Kanban</strong>), contribuindo diretamente para a divulgação do turismo comunitário na <strong>Bahia</strong>, abrangendo <strong>27 comunidades</strong>.
