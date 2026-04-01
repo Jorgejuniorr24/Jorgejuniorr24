@@ -1,4 +1,4 @@
-## 💫 Sobre mim:
+## 💫 Olá, me chamo Jorge Oliveira
 
 Desenvolvedor Front-End com experiência em React, Next.js, JavaScript, TypeScript, Tailwind CSS e Bootstrap, especializado na criação de interfaces modernas, responsivas e centradas no usuário. Sou formado em Engenharia de Produção , Análise e Desenvolvimento de Sistemas e MBA em Gerenciamento de Projetos. Atuei no desenvolvimento de duas plataformas web voltadas ao turismo comunitário, integrando APIs RESTful com Django, autenticação JWT, controle de acesso por papéis, criação de componentes reutilizáveis, gerenciamento de estado com React Hooks e testes automatizados com Cypress, utilizando metodologias ágeis (Scrum e Kanban), contribuindo diretamente para a divulgação do turismo comunitário na Bahia, abrangendo 27 comunidades.
 
