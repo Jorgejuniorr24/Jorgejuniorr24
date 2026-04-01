@@ -2,7 +2,7 @@
 <h1 align="center">💫 Olá, me chamo Jorge Oliveira</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jorgejuniorr24/Jorgejuniorr24/main/foto1.jpeg" width="450px" alt="banner workspace futurista" />
+  <img src="https://raw.githubusercontent.com/Jorgejuniorr24/Jorgejuniorr24/main/foto2.png" width="450px" alt="banner workspace futurista" />
 </p>
 
 
