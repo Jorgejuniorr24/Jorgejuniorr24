@@ -1,8 +1,9 @@
+
+<h1 align="center">💫 Olá, me chamo Jorge Oliveira</h1>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a633e17a-3ca5-4383-8fa9-4d28f10df92b" width="450px" alt="banner workspace futurista" />
 </p>
-
-<h1 align="center">💫 Olá, me chamo Jorge Oliveira</h1>
 
 
 <p align="center">
