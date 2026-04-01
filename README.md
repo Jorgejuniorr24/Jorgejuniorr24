@@ -1,13 +1,16 @@
-![dreamina-2026-04-01-6517-A wide shot of a futuristic workspace in](https://github.com/user-attachments/assets/a633e17a-3ca5-4383-8fa9-4d28f10df92b)
+<h1 align="center">💫 Olá, me chamo Jorge Oliveira</h1>
 
-<h1>💫 Olá, me chamo Jorge Oliveira </h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a633e17a-3ca5-4383-8fa9-4d28f10df92b" width="500px" alt="banner workspace futurista" />
+</p>
 
-Desenvolvedor **Front-End** com experiência em **React**, **Next.js**, **JavaScript**, **TypeScript**, **Tailwind CSS** e **Bootstrap**, especializado na criação de interfaces modernas, responsivas e centradas no usuário. Sou formado em **Engenharia de Produção**, **Análise e Desenvolvimento de Sistemas** e **MBA em Gerenciamento de Projetos**. Atuei no desenvolvimento de **duas plataformas web voltadas ao turismo comunitário**, integrando **APIs RESTful com Django**, autenticação **JWT**, controle de acesso por papéis, criação de componentes reutilizáveis, gerenciamento de estado com **React Hooks** e testes automatizados com **Cypress**, utilizando metodologias ágeis (**Scrum** e **Kanban**), contribuindo diretamente para a divulgação do turismo comunitário na **Bahia**, abrangendo **27 comunidades**.
+<p align="center">
+Desenvolvedor <strong>Front-End</strong> com experiência em <strong>React</strong>, <strong>Next.js</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Tailwind CSS</strong> e <strong>Bootstrap</strong>, especializado na criação de interfaces modernas, responsivas e centradas no usuário. Sou formado em <strong>Engenharia de Produção</strong>, <strong>Análise e Desenvolvimento de Sistemas</strong> e <strong>MBA em Gerenciamento de Projetos</strong>. Atuei no desenvolvimento de <strong>duas plataformas web voltadas ao turismo comunitário</strong>, integrando <strong>APIs RESTful com Django</strong>, autenticação <strong>JWT</strong>, controle de acesso por papéis, criação de componentes reutilizáveis, gerenciamento de estado com <strong>React Hooks</strong> e testes automatizados com <strong>Cypress</strong>, utilizando metodologias ágeis (<strong>Scrum</strong> e <strong>Kanban</strong>), contribuindo diretamente para a divulgação do turismo comunitário na <strong>Bahia</strong>, abrangendo <strong>27 comunidades</strong>.
+</p>
 
 ---
 
 ## 🌐 Redes Sociais:
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Jorgejuniorr24)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-jorge-oliveira/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorge.juniortwo@hotmail.com)
@@ -15,7 +18,6 @@ Desenvolvedor **Front-End** com experiência em **React**, **Next.js**, **JavaSc
 ---
 
 ## 💻 Ferramentas e tecnologias que utilizo:
-
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,8 +35,6 @@ Desenvolvedor **Front-End** com experiência em **React**, **Next.js**, **JavaSc
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-
 
 ---
 
