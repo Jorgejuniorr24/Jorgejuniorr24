@@ -1,5 +1,5 @@
 
-<h1 align="center">🚀 Olá, me chamo Jorge Oliveira</h1>
+<h1 align="center"> Olá, me chamo Jorge Oliveira</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jorgejuniorr24/Jorgejuniorr24/main/foto3.png"  width="450px"  alt="banner workspace futurista" />
@@ -11,14 +11,14 @@ Desenvolvedor <strong>Front-End</strong> com experiência em <strong>React</stro
 
 ---
 
-## 🌐 Redes Sociais:
+##  Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Jorgejuniorr24)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-jorge-oliveira/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorge.juniortwo@hotmail.com)
 
 ---
 
-## 💻 Ferramentas e tecnologias que utilizo:
+##  Ferramentas e tecnologias que utilizo:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
